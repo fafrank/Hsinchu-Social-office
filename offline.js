@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539312323,
+	"version": 1539315580,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,8 +46,6 @@
 		"images/5_abuttonbackground-sheet0.png",
 		"images/5_bbuttonbackground-sheet0.png",
 		"images/5_aangenttalking-sheet0.png",
-		"images/5_aangenttalking-sheet1.png",
-		"images/5_aangenttalking-sheet2.png",
 		"images/5_bangenttalking-sheet0.png",
 		"images/5_bangenttalking-sheet1.png",
 		"images/5_bangenttalking-sheet2.png",
@@ -73,7 +71,6 @@
 		"images/4_aangenttalking-sheet4.png",
 		"images/4_bbuttonbackground-sheet0.png",
 		"images/4_bangenttalking-sheet0.png",
-		"images/4_bangenttalking-sheet1.png",
 		"images/6_background-sheet0.png",
 		"images/6_angenttalking-sheet0.png",
 		"images/6_angenttalking-sheet1.png",
@@ -94,7 +91,6 @@
 		"images/6_aangenttalking-sheet4.png",
 		"images/6_aangenttalking-sheet5.png",
 		"images/6_bangenttalking-sheet0.png",
-		"images/6_bangenttalking-sheet1.png",
 		"images/transitions1_background-sheet0.png",
 		"images/transitions2_arrow-sheet0.png",
 		"images/transitions2_arrow-sheet1.png",
