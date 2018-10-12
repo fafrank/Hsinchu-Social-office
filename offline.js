@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539324998,
+	"version": 1539330797,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -119,6 +119,9 @@
 		"images/cityhall_logo-sheet0.png",
 		"images/win_2a_talk-sheet0.png",
 		"images/win_2b_talk-sheet0.png",
+		"images/win_2b_talk-sheet1.png",
+		"images/win_2b_talk-sheet2.png",
+		"images/win_2b_talk-sheet3.png",
 		"images/win_2a_button-sheet0.png",
 		"images/win_3_botton-sheet0.png",
 		"images/win_3_talk-sheet0.png",
@@ -129,6 +132,9 @@
 		"images/win_3_talk-sheet5.png",
 		"images/win_3_talk-sheet6.png",
 		"images/win_3_talk-sheet7.png",
+		"images/win_3_talk-sheet8.png",
+		"images/win_3_talk-sheet9.png",
+		"images/win_3_talk-sheet10.png",
 		"media/bgmusic.m4a",
 		"media/bgmusic.ogg",
 		"media/no.m4a",
