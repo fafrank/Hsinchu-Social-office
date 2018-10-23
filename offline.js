@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539758617,
+	"version": 1540289679,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -132,6 +132,7 @@
 		"images/win_3_talk-sheet5.png",
 		"images/win_3_talk-sheet6.png",
 		"images/win_3_talk-sheet7.png",
+		"images/win_3_talk-sheet8.png",
 		"images/sprite-sheet0.png",
 		"images/sprite-sheet1.png",
 		"images/sprite-sheet2.png",
@@ -140,6 +141,7 @@
 		"images/loadingbar_1.png",
 		"images/loadingfont.png",
 		"images/sprite2-sheet0.png",
+		"images/loading-sheet0.png",
 		"media/bgmusic.m4a",
 		"media/bgmusic.ogg",
 		"media/no.m4a",
