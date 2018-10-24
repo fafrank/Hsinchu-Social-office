@@ -22512,12 +22512,12 @@ cr.plugins_.Touch = function(runtime)
 	pluginProto.exps = new Exps();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Audio,
-	cr.plugins_.Browser,
 	cr.plugins_.Sprite,
 	cr.plugins_.Spritefont2,
 	cr.plugins_.TiledBg,
 	cr.plugins_.Touch,
+	cr.plugins_.Audio,
+	cr.plugins_.Browser,
 	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.system_object.prototype.cnds.OnLayoutStart,
